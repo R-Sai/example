@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_facts">Lista Faktów</string>
+    <string name="cat_facts_title">Fakty o kotach!!!</string>
+</resources>

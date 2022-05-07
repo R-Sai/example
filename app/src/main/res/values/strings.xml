@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cat facts</string>
+    <string name="title_activity_facts">Fact list</string>
+    <string name="cat_facts_title">Cat Facts!!!</string>
+</resources>
